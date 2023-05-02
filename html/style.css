@@ -40,10 +40,13 @@ button{
     height:50px;
     color: white;
     text-transform:uppercase;
+    pointer-events: visiblePainted;
+    cursor: pointer;
 }
 .vermelha{
     background-color: red;
     margin: 20px
+
 }
 .amarela{
     background-color: yellow;
